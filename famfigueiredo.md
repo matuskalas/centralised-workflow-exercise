@@ -1,0 +1,5 @@
+# A simple haiku
+
+Chaos reigns within.
+Reflect, repent, and reboot.
+Order shall return.
